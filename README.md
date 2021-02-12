@@ -1,0 +1,2 @@
+# francis
+Miner is faster
